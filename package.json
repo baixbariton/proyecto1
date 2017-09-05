@@ -1,0 +1,28 @@
+{
+    "name": "proyecto1",
+    "version": "1.0.2",
+    "description": "Primera prueba con Grunt",
+    "main": "gulpfile.js",
+    "devDependencies": {
+      "gulp": "^3.9.1",
+      "gulp-concat": "^2.6.1",
+      "gulp-uglify": "^3.0.0"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/baixbariton/proyecto1.git%1B%5B.git"
+    },
+    "keywords": [
+      "gruntJs"
+    ],
+    "author": "benignus",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/baixbariton/proyecto1.git%1B%5B/issues"
+    },
+    "homepage": "https://github.com/baixbariton/proyecto1.git%1B%5B#readme"
+  }
+  
